@@ -1,0 +1,9 @@
+	usage:\n\r
+	+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n
+	```
+    1.list\t\t- retrieve list of files in the current remote\n
+	2.get <filename>\t\t- get the specified file\n
+	3.help\t\t- that's me!\n
+	4.quit\t\t- end the ftp session\n
+	```
+    +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n
